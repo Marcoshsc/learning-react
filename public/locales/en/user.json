@@ -1,0 +1,12 @@
+{
+  "title": "Users",
+  "add": "Add Users",
+  "edit": "Edit",
+  "delete": "Delete",
+  "create": "Create",
+  "name": "Name",
+  "username": "Username",
+  "email": "Email",
+  "editTitle": "Edit User",
+  "addTitle": "Add User"
+}
